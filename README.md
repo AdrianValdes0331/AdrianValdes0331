@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Video Games
 - 🌱 I’m currently learning ... Computer Science
 - 💞️ I’m looking to collaborate on ... Tech Company
-- 📫 How to reach me ... 
+- 📫 How to reach me ... mail or linkedin
 
 <!---
 AdrianValdes0331/AdrianValdes0331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
